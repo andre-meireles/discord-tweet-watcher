@@ -1,0 +1,2 @@
+# Discord Tweet Watcher
+Simple Discord bot that can be configured to 'watch' specific Twitter users on specific Discord channels. When a watched Twitter uses posts a new Tweet, the bot will post the tweet on the channel.
